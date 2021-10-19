@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Izabella Campos', '956.411.720-81', 6000.0,  TIMESTAMP WITH TIME ZONE '1992-06-12T00:00:00.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria da Dores', '421.136.010-87', 8000.0,  TIMESTAMP WITH TIME ZONE '1990-03-20T00:00:00.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rugal Silva', '212.316.500-01', 9000.0,  TIMESTAMP WITH TIME ZONE '1991-07-25T00:00:00.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Keyte Oliveira', '415.349.950-13', 10000.0,  TIMESTAMP WITH TIME ZONE '1993-02-04T00:00:00.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Hikae Francisco', '624.504.590-81', 4000.0,  TIMESTAMP WITH TIME ZONE '1988-09-05T00:00:00.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mora Rodrigues', '606.911.630-57', 11000.0,  TIMESTAMP WITH TIME ZONE '1990-04-20T00:00:00.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Heil Silva', '052.449.450-92', 5000.0,  TIMESTAMP WITH TIME ZONE '1991-07-12T00:00:00.12345Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Isalbo Burgos', '629.407.350-26', 8000.0,  TIMESTAMP WITH TIME ZONE '1990-03-20T00:00:00.12345Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Kennia Lira', '172.627.150-11', 7000.0,  TIMESTAMP WITH TIME ZONE '1992-06-12T00:00:00.12345Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Miriam Lucas', '638.615.140-28', 3000.0,  TIMESTAMP WITH TIME ZONE '1990-03-20T00:00:00.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Victor Oliveira', '172.627.150-11', 9000.0,  TIMESTAMP WITH TIME ZONE '1992-06-21T00:00:00.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Suelen Silva', '638.615.140-28', 12000.0,  TIMESTAMP WITH TIME ZONE '1990-03-20T00:00:00.12345Z', 2);
